@@ -1,4 +1,4 @@
-#🎧 Click and Let the Music Play! 🎵
+# 🎧 Click and Let the Music Play! 🎵
 
 In this project, I practiced using array and forEach to create an experience where music accompanies us when we click on buttons. 🎶🎉
 
